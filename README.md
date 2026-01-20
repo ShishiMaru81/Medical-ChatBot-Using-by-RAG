@@ -1,4 +1,4 @@
-# Medical-ChatBot-Using-by-RAG
+# MEdiBot - Medical-ChatBot-Using-by-RAG
 
 
 
@@ -74,4 +74,5 @@ AWS_SECRET_ACCESS_KEY
 AWS_DEFAULT_REGION
 ECR_REPO
 PINECONE_API_KEY
+
 OPENAI_API_KEY
